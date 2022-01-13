@@ -1,0 +1,41 @@
+* {
+    background: linear-gradient(252deg, rgba(252, 82, 82, 0.7), rgba(253, 237, 167, 0)),
+    linear-gradient(272deg, rgba(128, 253, 243, 0.6), rgba(170, 253, 246, 0)),
+    linear-gradient(331deg, rgba(194, 161, 255, 0.5), rgba(253, 156, 224, 0));
+}
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#img {
+    height: 250px;
+    background-image: url("https://image.shutterstock.com/image-photo/panoramic-view-lavender-field-provence-260nw-205056607.jpg");
+    background-position: 50% 30%;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    background: -webkit-linear-gradient(rgb(204, 159, 255), rgb(147, 239, 255));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+input {
+    margin: 10px;
+}
+
+h2 {
+    margin-top: 10px;
+}
+
+.show {
+    background: linear-gradient(#f7c9c9, #d6d9f5);
+    box-shadow: 5px 5px 10px rgb(163, 163, 163);
+    border-radius: 15% 5%;
+    height: 30px;
+}
