@@ -22,15 +22,24 @@ function showAllMarche() {
     .then(response => response.json())
     // then draft the data
     .then(data => {
-        // call records
-        let records = data.records;
-        // get info from table
-        records.map(list => {
+        // get info from table "records"
+        data.records.map(list => {
             // insert into h2
             titre.innerHTML = "La liste des marches :";
             // insert into para
-            para.innerHTML += "<p>"+ `${listNbr + 1}, Type: ${list.fields.type}, Nom: ${list.fields.lib_marche}` +"</p>";
+            para.innerHTML += "<p>"+ `${listNbr + 1}. Type: ${list.fields.type}, Nom: ${list.fields.lib_marche}` +"</p>";
             listNbr ++;
         })
     })
 }
+/* christophe' method to test
+for(let i in data.records){    // i est une string qui change de 0 à 9
+    lieuxExpo.innerHTML += `<button id="button${i}"></button>`; 
+}
+for (let i in data.records) {
+   let button = document.getElementById("button" + i);
+
+   button.addEventListener("click", function(e){ // Fait qqchose 
+   });
+}
+*/
