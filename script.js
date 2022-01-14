@@ -27,7 +27,7 @@ function showAllMarche() {
             // insert into h2
             titre.innerHTML = "La liste des marches :";
             // insert into para
-            para.innerHTML += "<p>"+ `${listNbr + 1}. Type: ${list.fields.type}, Nom: ${list.fields.lib_marche}` +"</p>";
+            para.innerHTML += "<p>"+ `${listNbr + 1}. <br/> Nom: ${list.fields.lib_marche} <br/> Type: ${list.fields.type} <br/> ${list.fields.geo_point_2d}` +"</p>";
             listNbr ++;
         })
     })

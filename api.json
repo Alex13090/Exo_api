@@ -1,0 +1,295 @@
+{
+"nhits": 21,
+"parameters": {
+"dataset": "ads-marches",
+"rows": 10,
+"start": 0,
+"facet": [
+"type/"
+],
+"format": "json",
+"timezone": "UTC"
+},
+"records": [
+{
+"datasetid": "ads-marches",
+"recordid": "580ebd609481a2ac182664b30e3c87b4f948afcd",
+"fields": {
+"id_marche": 39,
+"type": "ARTISANAT, BROCANTE",
+"geo_shape": {
+"coordinates": [
+5.450991876288031,
+43.528275773698134
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5282757737,
+5.45099187629
+],
+"lib_marche": "VERDUN"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.45099187629,
+43.5282757737
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "62bdd968a1f8de1657b93379ebc19359589b5340",
+"fields": {
+"id_marche": 62,
+"type": "TEXTILES",
+"geo_shape": {
+"coordinates": [
+5.449205198833622,
+43.5267868165156
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5267868165,
+5.44920519883
+],
+"lib_marche": "MIRABEAU"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.44920519883,
+43.5267868165
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "58319a6778a4ad97539eace318a66c690f2f5066",
+"fields": {
+"id_marche": 46,
+"type": "ALIMENTAIRE",
+"geo_shape": {
+"coordinates": [
+5.463444869722148,
+43.53379828951365
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5337982895,
+5.46344486972
+],
+"lib_marche": "PONT de BERAUD"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.46344486972,
+43.5337982895
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "8063931b18e00b42fd3aea42e7bbe8b064189be7",
+"fields": {
+"id_marche": 42,
+"type": "ALIMENTAIRE",
+"geo_shape": {
+"coordinates": [
+5.387425572787198,
+43.50380592891501
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5038059289,
+5.38742557279
+],
+"lib_marche": "LES MILLES"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.38742557279,
+43.5038059289
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "735dccd4b478650123660cf48ffcf272bc5eb2fc",
+"fields": {
+"id_marche": 99,
+"type": "ARTISANAT, BROCANTE",
+"geo_shape": {
+"coordinates": [
+5.446238715902299,
+43.524642138905975
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5246421389,
+5.4462387159
+],
+"lib_marche": "VICTOR HUGO - REMPLACEMENT VERDUN"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.4462387159,
+43.5246421389
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "c72f98ef849e8503a0ccf463edf3212683181f85",
+"fields": {
+"id_marche": 98,
+"type": "ALIMENTAIRE",
+"geo_shape": {
+"coordinates": [
+5.443730041856052,
+43.52848567254468
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5284856725,
+5.44373004186
+],
+"lib_marche": "SEXTIUS - REMPLACEMENT PRECHEURS MADELEINE"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.44373004186,
+43.5284856725
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "39f50862d764570d63f3f98467cba2e9f6d1e609",
+"fields": {
+"id_marche": 36,
+"type": "TEXTILES",
+"geo_shape": {
+"coordinates": [
+5.450027715496932,
+43.5289181344067
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5289181344,
+5.4500277155
+],
+"lib_marche": "PEYRESC"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.4500277155,
+43.5289181344
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "b0c0c3f9437e47ec5017253e19742d44e3fc0129",
+"fields": {
+"id_marche": 37,
+"type": "ALIMENTAIRE",
+"geo_shape": {
+"coordinates": [
+5.451197911442799,
+43.528984852108046
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5289848521,
+5.45119791144
+],
+"lib_marche": "PRECHEURS"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.45119791144,
+43.5289848521
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "01961e6beda378980975d44e2b53aa4f23a67e38",
+"fields": {
+"id_marche": 48,
+"type": "FLEURS",
+"geo_shape": {
+"coordinates": [
+5.447927449199528,
+43.52990074319448
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5299007432,
+5.4479274492
+],
+"lib_marche": "HOTEL de VILLE"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.4479274492,
+43.5299007432
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+},
+{
+"datasetid": "ads-marches",
+"recordid": "b6cb22bb9739c717f02008d02d9c7604bcc086a8",
+"fields": {
+"id_marche": 50,
+"type": "ALIMENTAIRE",
+"geo_shape": {
+"coordinates": [
+5.45466854852404,
+43.53993059586369
+],
+"type": "Point"
+},
+"geo_point_2d": [
+43.5399305959,
+5.45466854852
+],
+"lib_marche": "SAINT-EUTROPE"
+},
+"geometry": {
+"type": "Point",
+"coordinates": [
+5.45466854852,
+43.5399305959
+]
+},
+"record_timestamp": "2021-02-12T13:04:10.781000+00:00"
+}
+]
+}
