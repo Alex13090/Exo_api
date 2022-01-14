@@ -32,14 +32,3 @@ function showAllMarche() {
         })
     })
 }
-/* christophe' method to test
-for(let i in data.records){    // i est une string qui change de 0 à 9
-    lieuxExpo.innerHTML += `<button id="button${i}"></button>`; 
-}
-for (let i in data.records) {
-   let button = document.getElementById("button" + i);
-
-   button.addEventListener("click", function(e){ // Fait qqchose 
-   });
-}
-*/
